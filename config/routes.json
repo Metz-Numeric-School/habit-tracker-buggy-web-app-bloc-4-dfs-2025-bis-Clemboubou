@@ -38,6 +38,18 @@
         "guard": "App\\Guard\\AdminGuard"
     },
     {
+        "path": "/admin/user/edit",
+        "controller": "App\\Controller\\Admin\\UserController",
+        "action": "edit",
+        "guard": "App\\Guard\\AdminGuard"
+    },
+    {
+    "path": "/habit/toggle",
+    "controller": "App\\Controller\\Member\\HabitsController",
+    "action": "toggle",
+    "guard": "App\\Guard\\UserGuard"
+    },
+    {
         "path": "/dashboard",
         "controller": "App\\Controller\\Member\\DashboardController",
         "action": "index",

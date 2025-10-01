@@ -29,3 +29,8 @@ J'utilise Docker avec 4 conteneurs :
 Nginx reçoit les requêtes et les transmet à PHP qui se connecte à MySQL. Tout communique via un réseau Docker interne (`habittracker-network`).
 
 voilà, j'ai aussi perdu du temps sur la clé ssh personnel de github qu'on doit mettre en fait à la place de password
+
+
+**INFO** J'ai créé plusieurs utilisateurs, tous les utilisateurs créer par moi meme auront toujours le meme mot de passe : TEST123
+
+

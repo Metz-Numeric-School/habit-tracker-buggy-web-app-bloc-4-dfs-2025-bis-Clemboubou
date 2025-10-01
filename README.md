@@ -51,3 +51,8 @@ Le code doit impérativement être push sur le repo GitHub Classroom qui vous a 
 **!!! ATTENTION : la partie 2 ne sera pas évaluée si ce n'est pas le cas !!!**
 
 # BONNE CHANCE
+
+
+
+
+

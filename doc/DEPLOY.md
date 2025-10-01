@@ -6,7 +6,7 @@ Décrivez ci-dessous votre procédure de déploiement en détaillant chacune des
 
 VPS Debian 12 fourni par l'école (IP : 172.17.4.26)
 
-J'ai installé Docker + Docker Compose pour containeriser l'application. j'ai installé Apache2 par erreur, je l'ai arrêté car il occupait le port 80.
+J'ai installé Docker + Docker Compose pour containeriser l'application. j'ai installé Apache2 par erreur en pensant que j'en avais besoin pour docker, je l'ai arrêté car il occupait le port 80.
 
 ```bash
 ssh root@172.17.4.26
@@ -28,4 +28,4 @@ J'utilise Docker avec 4 conteneurs :
 
 Nginx reçoit les requêtes et les transmet à PHP qui se connecte à MySQL. Tout communique via un réseau Docker interne (`habittracker-network`).
 
-voilà, j'ai perdu du temps sur la clé ssh personnel de github qu'on doit mettre en fait à la place de password
+voilà, j'ai aussi perdu du temps sur la clé ssh personnel de github qu'on doit mettre en fait à la place de password

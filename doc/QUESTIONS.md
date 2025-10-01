@@ -1,6 +1,6 @@
 # Questions
 
-## 1) Expliquer la procédure pour réserver un nom de domaine chez OVH avec des captures d'écran (arrêtez-vous au paiement)
+## 1. Expliquer la procédure pour réserver un nom de domaine chez OVH avec des captures d'écran (arrêtez-vous au paiement)
 
 Je vais sur le site d'OVH et je cherche si le nom de domaine que je veux est disponible. Si oui je peux le commander en choisissant la durée et quelques options de base. Ensuite je créé un compte si j'en ai pas déjà un et je valide le panier. Je m'arrête là avant de payer, sachant qu'un domaine coûte entre 6 et 15€ par an selon l'extension.
 
